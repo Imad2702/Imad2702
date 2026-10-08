@@ -1,5 +1,5 @@
 # About Me:
-AI engineer focused on developing practical machine learning and LLM-based applications.  <br>I work on turning data into reliable systems, from modeling to usable implementations.<br><br>Currently working on: LLM applications and RAG pipelines.  <br>Learning: evaluation and deployment of production ML systems<br>Ask me about transformers, time-series forecasting, LangChain.<br>Open to collaboration on applied AI projects
+I teach machines to read, retrieve and reason, then ship them as systems that actually work. <br>Data in, dependable products out.<br><br>Currently building: next-gen RAG with hybrid search, reranking and evaluation built in from day one. <br>Learning: how to evaluate, monitor and deploy ML systems that keep working after the demo.<br>Ask me about transformers, time-series forecasting, LangChain, LangGraph.<br>Open to collaboration on applied AI projects
 
 
 ## 🌐 Socials:
