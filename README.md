@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3b6b,100:7aa2f7&height=200&section=header&text=Imaduddin%20Bhaisaheb&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Applied%20AI%20Engineer%20%7C%20RAG%20%26%20LLM%20Systems&descSize=18&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3b6b,100:7aa2f7&height=200&section=header&text=Imaduddin%20Bhaisaheb&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Applied%20AI%20Engineer%20%7C%20RAG%20and%20LLM%20Systems&descSize=18&descAlignY=58" width="100%" alt="Imaduddin Bhaisaheb, Applied AI Engineer"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=I+teach+machines+to+read%2C+retrieve+and+reason;Data+in%2C+dependable+products+out;Building+RAG+with+evaluation+built+in" alt="Typing SVG"/>
 
@@ -58,163 +58,7 @@
 <!--START_MERGED_PRS-->
 <div align="center">
 
-**🔀 22 Total PRs**
-&nbsp;&nbsp; • &nbsp;&nbsp;
-**🟢 14 Merged PRs**
-
-</div>
-
-<table width="100%">
-
-<tr>
-<td>
-
- **fix(db): unify DatabaseSessionUnavailableError reason fields with the login path** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7710">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **test(auth): refresh registration rate-limit fixture comments after #7329** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7647">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **fix(auth): fence the post-change_password backup refresh on the rekey  epoch** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7755">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **fix(backup): keep superseded-key purge going past a backup that raises** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7748">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **fix(chat): guard non-dict accumulated_context and non-string strategy** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7708">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **gmail: a lone quote beside an operator, a value of quotes alone and a word joined to an operator by a hyphen are read as real reads them** <br><sub>brekkylab/backlot</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/brekkylab/backlot/pull/931">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **gmail: a lone quote after subject:, label: or in: makes the rest of the search its value, and no value when nothing follows** <br><sub>brekkylab/backlot</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/brekkylab/backlot/pull/915">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **fix(security): render PDF export through the hardened markdown pipeline** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7578">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **fix(web): match stored model IDs case-insensitively on the settings page** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7486">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **test(library): finish the has_indexed_documents test-hygiene switch** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7442">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-</table>
-
-<div align="center">
-
-<sub>
-Showing latest 10 of 14 merged pull requests to other projects
-&nbsp; • &nbsp;
-<a href="https://github.com/pulls?q=is%3Amerged+is%3Apr+author%3AImad2702+-user%3AImad2702">see all</a>
-</sub>
+<sub>Merged pull requests load here after the first run of the "Update merged PRs" workflow.</sub>
 
 </div>
 <!--END_MERGED_PRS-->
@@ -240,6 +84,6 @@ Showing latest 10 of 14 merged pull requests to other projects
 
 *"Data in, dependable products out."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=80&section=footer" width="100%" alt=""/>
 
 </div>
