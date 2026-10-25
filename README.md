@@ -1,13 +1,89 @@
-# About Me:
-I teach machines to read, retrieve and reason, then ship them as systems that actually work. <br>Data in, dependable products out.<br><br>Currently building: next-gen RAG with hybrid search, reranking and evaluation built in from day one. <br>Learning: how to evaluate, monitor and deploy ML systems that keep working after the demo.<br>Ask me about transformers, time-series forecasting, LangChain, LangGraph.<br>Open to collaboration on applied AI projects
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3b6b,100:7aa2f7&height=200&section=header&text=Imaduddin%20Bhaisaheb&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Applied%20AI%20Engineer%20%7C%20RAG%20%26%20LLM%20Systems&descSize=18&descAlignY=58" width="100%"/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/imaduddin-bhaisaheb/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:imaduddin2702@gmail.com) [![Old GitHub](https://img.shields.io/badge/Old_GitHub-181717?logo=github&logoColor=white)](https://github.com/imaduddin27)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=I+teach+machines+to+read%2C+retrieve+and+reason;Data+in%2C+dependable+products+out;Building+RAG+with+evaluation+built+in" alt="Typing SVG"/>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imaduddin-bhaisaheb/)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Imad2702)
 
+</div>
+
+## 👋 Hey, I'm Imad
+
+### I build AI that still works after the demo.
+
+🛡️ Guardrails that **retry** instead of just blocking
+🗂️ Classifiers that only call an LLM **when they have to**
+🔎 RAG that gets **measured**, not just shipped
+
+🔥 **Now:** hybrid search + reranking, with evaluation built in
+🤝 **Open to:** applied AI roles and collabs
+
+<div align="center">
+
+**[📌 See my projects](#-featured-projects)** &nbsp;·&nbsp; **[🌍 See my open source work](#-open-source-contributions)**
+
+</div>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,numpy,pandas,fastapi,docker,git,gitlab,mysql,sqlite,powerbi,postman,vscode&theme=dark" />
+
+</div>
+
+## 📌 Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td><a href="https://github.com/Imad2702/LLM-Guardrails"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Imad2702&repo=LLM-Guardrails&theme=tokyonight&hide_border=true" /></a></td>
+<td><a href="https://github.com/Imad2702/Log_classification"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Imad2702&repo=Log_classification&theme=tokyonight&hide_border=true" /></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/Imad2702/DiagnoSpeak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Imad2702&repo=DiagnoSpeak&theme=tokyonight&hide_border=true" /></a></td>
+<td><a href="https://github.com/Imad2702/BookWise"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Imad2702&repo=BookWise&theme=tokyonight&hide_border=true" /></a></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><a href="https://github.com/Imad2702/RAG"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Imad2702&repo=RAG&theme=tokyonight&hide_border=true" /></a></td>
+</tr>
+</table>
+</div>
+
+## 🌍 Open Source Contributions
+<!--START_MERGED_PRS-->
+<div align="center">
+
+<sub>Merged pull requests load here after the first run of the "Update merged PRs" workflow.</sub>
+
+</div>
+<!--END_MERGED_PRS-->
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Imad2702&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imad2702&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=Imad2702&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Imad2702/Imad2702/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<div align="center">
+
+*"Data in, dependable products out."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=80&section=footer" width="100%"/>
+
+</div>
