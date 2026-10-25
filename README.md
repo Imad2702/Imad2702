@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3b6b,100:7aa2f7&height=200&section=header&text=Imaduddin%20Bhaisaheb&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Applied%20AI%20Engineer%20%7C%20RAG%20and%20LLM%20Systems&descSize=18&descAlignY=58" width="100%" alt="Imaduddin Bhaisaheb, Applied AI Engineer"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=I+teach+machines+to+read%2C+retrieve+and+reason;Data+in%2C+dependable+products+out;Building+RAG+with+evaluation+built+in" alt="Typing SVG"/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:2f3b6b,100:7aa2f7&height=200&section=header&text=Imaduddin%20Bhaisaheb&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=Applied%20AI%20Engineer%20%7C%20RAG%20and%20LLM%20Systems&descSize=18&descAlignY=58" width="100%" alt="Imaduddin Bhaisaheb, Applied AI Engineer"/> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1200&color=7AA2F7&center=true&vCenter=true&width=820&height=50&lines=%3E%3E+query%3A+who+is+Imad2702%3F;%3E%3E+retrieve+-%3E+rerank+-%3E+generate;%3E%3E+guardrails%3A+PASS;%3E%3E+answer%3A+AI+engineer+who+ships+RAG+that+works+after+the+demo;%3E%3E+sources%3A+LLM-Guardrails+%7C+Log_classification+%7C+BookWise" alt="Animated terminal: query, retrieve, rerank, generate, guardrails pass, answer"/>
 
 <br>
 
