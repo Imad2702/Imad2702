@@ -58,7 +58,163 @@
 <!--START_MERGED_PRS-->
 <div align="center">
 
-<sub>Merged pull requests load here after the first run of the "Update merged PRs" workflow.</sub>
+**🔀 22 Total PRs**
+&nbsp;&nbsp; • &nbsp;&nbsp;
+**🟢 14 Merged PRs**
+
+</div>
+
+<table width="100%">
+
+<tr>
+<td>
+
+ **fix(db): unify DatabaseSessionUnavailableError reason fields with the login path** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/7710">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **test(auth): refresh registration rate-limit fixture comments after #7329** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/7647">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **fix(auth): fence the post-change_password backup refresh on the rekey  epoch** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/7755">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **fix(backup): keep superseded-key purge going past a backup that raises** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/7748">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **fix(chat): guard non-dict accumulated_context and non-string strategy** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/7708">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **gmail: a lone quote beside an operator, a value of quotes alone and a word joined to an operator by a hyphen are read as real reads them** <br><sub>brekkylab/backlot</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/brekkylab/backlot/pull/931">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **gmail: a lone quote after subject:, label: or in: makes the rest of the search its value, and no value when nothing follows** <br><sub>brekkylab/backlot</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/brekkylab/backlot/pull/915">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **fix(security): render PDF export through the hardened markdown pipeline** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/7578">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **fix(web): match stored model IDs case-insensitively on the settings page** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/7486">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **test(library): finish the has_indexed_documents test-hygiene switch** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/7442">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+</table>
+
+<div align="center">
+
+<sub>
+Showing latest 10 of 14 merged pull requests to other projects
+&nbsp; • &nbsp;
+<a href="https://github.com/pulls?q=is%3Amerged+is%3Apr+author%3AImad2702+-user%3AImad2702">see all</a>
+</sub>
 
 </div>
 <!--END_MERGED_PRS-->
