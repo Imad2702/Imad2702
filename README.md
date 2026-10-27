@@ -55,11 +55,39 @@
 
 **🔀 22 Total PRs**
 &nbsp;&nbsp; • &nbsp;&nbsp;
-**🟢 14 Merged PRs**
+**🟢 16 Merged PRs**
 
 </div>
 
 <table width="100%">
+
+<tr>
+<td>
+
+ **fix(security): keep network errnos out of the filesystem_error download token** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/7787">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **fix(llm): make normalize_provider strip quotes like get_llm does** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/7902">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
 
 <tr>
 <td>
@@ -173,40 +201,12 @@
 </td>
 </tr>
 
-<tr>
-<td>
-
- **fix(web): match stored model IDs case-insensitively on the settings page** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7486">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **test(library): finish the has_indexed_documents test-hygiene switch** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7442">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
 </table>
 
 <div align="center">
 
 <sub>
-Showing latest 10 of 14 merged pull requests to other projects
+Showing latest 10 of 16 merged pull requests to other projects
 &nbsp; • &nbsp;
 <a href="https://github.com/pulls?q=is%3Amerged+is%3Apr+author%3AImad2702+-user%3AImad2702">see all</a>
 </sub>
