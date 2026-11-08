@@ -55,11 +55,67 @@
 
 **🔀 29 Total PRs**
 &nbsp;&nbsp; • &nbsp;&nbsp;
-**🟢 16 Merged PRs**
+**🟢 20 Merged PRs**
 
 </div>
 
 <table width="100%">
+
+<tr>
+<td>
+
+ **fix(benchmark): return 400 for BenchmarkStartRefused on start routes** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/8330">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **ci(whitelist): share agent-guidance guard between CI and pre-commit (#8279)** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/8328">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **perf(chunking): slice windows in the recursive splitter&#x27;s empty-separator fallback** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/8007">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
+
+<tr>
+<td>
+
+ **db(rekey): public user-db path projection for authorization_epoch (#8217)** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/8282">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
 
 <tr>
 <td>
@@ -145,68 +201,12 @@
 </td>
 </tr>
 
-<tr>
-<td>
-
- **fix(chat): guard non-dict accumulated_context and non-string strategy** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7708">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **gmail: a lone quote beside an operator, a value of quotes alone and a word joined to an operator by a hyphen are read as real reads them** <br><sub>brekkylab/backlot</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/brekkylab/backlot/pull/931">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **gmail: a lone quote after subject:, label: or in: makes the rest of the search its value, and no value when nothing follows** <br><sub>brekkylab/backlot</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/brekkylab/backlot/pull/915">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
-<tr>
-<td>
-
- **fix(security): render PDF export through the hardened markdown pipeline** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7578">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
 </table>
 
 <div align="center">
 
 <sub>
-Showing latest 10 of 16 merged pull requests to other projects
+Showing latest 10 of 20 merged pull requests to other projects
 &nbsp; • &nbsp;
 <a href="https://github.com/pulls?q=is%3Amerged+is%3Apr+author%3AImad2702+-user%3AImad2702">see all</a>
 </sub>
