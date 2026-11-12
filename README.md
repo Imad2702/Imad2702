@@ -53,13 +53,27 @@
 <!--START_MERGED_PRS-->
 <div align="center">
 
-**🔀 30 Total PRs**
+**🔀 31 Total PRs**
 &nbsp;&nbsp; • &nbsp;&nbsp;
-**🟢 20 Merged PRs**
+**🟢 21 Merged PRs**
 
 </div>
 
 <table width="100%">
+
+<tr>
+<td>
+
+ **fix(metrics): count every rate limit outcome so analytics are not biased to failures** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/8388">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
 
 <tr>
 <td>
@@ -187,26 +201,12 @@
 </td>
 </tr>
 
-<tr>
-<td>
-
- **fix(backup): keep superseded-key purge going past a backup that raises** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7748">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
 </table>
 
 <div align="center">
 
 <sub>
-Showing latest 10 of 20 merged pull requests to other projects
+Showing latest 10 of 21 merged pull requests to other projects
 &nbsp; • &nbsp;
 <a href="https://github.com/pulls?q=is%3Amerged+is%3Apr+author%3AImad2702+-user%3AImad2702">see all</a>
 </sub>
