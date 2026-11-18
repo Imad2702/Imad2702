@@ -55,11 +55,25 @@
 
 **🔀 40 Total PRs**
 &nbsp;&nbsp; • &nbsp;&nbsp;
-**🟢 21 Merged PRs**
+**🟢 22 Merged PRs**
 
 </div>
 
 <table width="100%">
+
+<tr>
+<td>
+
+ **fix(coverage): stamp measurement_commit on re-read coverage reports (#5744)** <br><sub>repowise-dev/repowise</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/repowise-dev/repowise/pull/5770">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
 
 <tr>
 <td>
@@ -187,26 +201,12 @@
 </td>
 </tr>
 
-<tr>
-<td>
-
- **fix(auth): fence the post-change_password backup refresh on the rekey  epoch** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7755">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
 </table>
 
 <div align="center">
 
 <sub>
-Showing latest 10 of 21 merged pull requests to other projects
+Showing latest 10 of 22 merged pull requests to other projects
 &nbsp; • &nbsp;
 <a href="https://github.com/pulls?q=is%3Amerged+is%3Apr+author%3AImad2702+-user%3AImad2702">see all</a>
 </sub>
