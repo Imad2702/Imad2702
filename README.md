@@ -53,13 +53,27 @@
 <!--START_MERGED_PRS-->
 <div align="center">
 
-**🔀 40 Total PRs**
+**🔀 41 Total PRs**
 &nbsp;&nbsp; • &nbsp;&nbsp;
-**🟢 22 Merged PRs**
+**🟢 23 Merged PRs**
 
 </div>
 
 <table width="100%">
+
+<tr>
+<td>
+
+ **fix(library): address background download review follow-ups (#8183)** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/8207">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
 
 <tr>
 <td>
@@ -187,26 +201,12 @@
 </td>
 </tr>
 
-<tr>
-<td>
-
- **test(auth): refresh registration rate-limit fixture comments after #7329** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7647">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
 </table>
 
 <div align="center">
 
 <sub>
-Showing latest 10 of 22 merged pull requests to other projects
+Showing latest 10 of 23 merged pull requests to other projects
 &nbsp; • &nbsp;
 <a href="https://github.com/pulls?q=is%3Amerged+is%3Apr+author%3AImad2702+-user%3AImad2702">see all</a>
 </sub>
