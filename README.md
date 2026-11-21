@@ -55,11 +55,25 @@
 
 **🔀 44 Total PRs**
 &nbsp;&nbsp; • &nbsp;&nbsp;
-**🟢 23 Merged PRs**
+**🟢 24 Merged PRs**
 
 </div>
 
 <table width="100%">
+
+<tr>
+<td>
+
+ **fix(tests): stabilize backtick scaling test against CI scheduling noise** <br><sub>LearningCircuit/local-deep-research</sub>
+
+</td>
+
+<td align="right">
+<a href="https://github.com/LearningCircuit/local-deep-research/pull/8929">
+<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
+</a>
+</td>
+</tr>
 
 <tr>
 <td>
@@ -187,26 +201,12 @@
 </td>
 </tr>
 
-<tr>
-<td>
-
- **fix(db): unify DatabaseSessionUnavailableError reason fields with the login path** <br><sub>LearningCircuit/local-deep-research</sub>
-
-</td>
-
-<td align="right">
-<a href="https://github.com/LearningCircuit/local-deep-research/pull/7710">
-<img src="https://img.shields.io/badge/VIEW-7AA2F7?style=flat-square&logo=github&logoColor=1a1b27" />
-</a>
-</td>
-</tr>
-
 </table>
 
 <div align="center">
 
 <sub>
-Showing latest 10 of 23 merged pull requests to other projects
+Showing latest 10 of 24 merged pull requests to other projects
 &nbsp; • &nbsp;
 <a href="https://github.com/pulls?q=is%3Amerged+is%3Apr+author%3AImad2702+-user%3AImad2702">see all</a>
 </sub>
